@@ -10,5 +10,9 @@ header{
   border-bottom: solid black;  
   padding: 20px;
   font-size: 32px;
-  color:black;
+  color:black;}
+
+  section{
+    background-color: rgb(59, 90, 90);
+  }
 }
